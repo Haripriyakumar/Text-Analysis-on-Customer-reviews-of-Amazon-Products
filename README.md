@@ -4,5 +4,5 @@ The dataset consists of columns such as customer reviews, ratings, date details 
 - First step was to analyze sentiment for the customer reviews to understand the customer perception of the products being reviewed. 
 - Next, checked if there is any difference in the customer reviews, ratings and average polarity in the initial 90 days Vs after 90 days, this helped to gain more insights as to if the customer reviews were biased in the initial 90 days . 
 - Then performed hypothesis testing to check the statistical significance of the values obtained. 
-- Finally, we carried out topic modeling to understand the underlying semantic structure in the customer reviews.
+- Finally, carried out topic modeling to understand the underlying semantic structure in the customer reviews.
 
